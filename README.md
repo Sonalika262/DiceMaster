@@ -1,2 +1,8 @@
-# DiceMaster-
-DiceMaster is a fun dice game built with React.js that allows users to roll dice, track scores, and save high scores across sessions using local storage. The game features an interactive UI with buttons for resetting scores and viewing game rules. Challenge yourself and aim for the highest score!
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
